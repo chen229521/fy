@@ -12,7 +12,7 @@
 var head= document.getElementsByTagName('head')[0]; 
 var script= document.createElement('script'); 
 script.type= 'text/javascript'; 
-script.src= 'https://res.zvo.cn/translate/translate.js'; 
+script.src= 'https://chen229521.github.io/fy/fy.js'; 
 script.onload = script.onreadystatechange = function() {
 	translate.storage.set('to','');
 
